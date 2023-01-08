@@ -58,7 +58,7 @@ Key Features
 
 ## Help
 
-If you have any question, please email to stephen.cao0805@outlook.com
+If you have any comments or suggestions, please feel free to contact us via email: stephen.cao0805@outlook.com
 
 ## Authors
 
