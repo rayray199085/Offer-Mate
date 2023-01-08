@@ -1,6 +1,6 @@
 # Offer Mate
 
-An iOS app
+An iOS app using SwiftUI
 
 ## Description
 
