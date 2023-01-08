@@ -39,6 +39,23 @@ Key Features
 <img src="https://user-images.githubusercontent.com/45153478/211185708-99e5501d-dfdd-4f14-b8a9-6dc366f0dd1e.png" width="100" height="216">
 </p>
 
+## iPad Screenshots
+
+<p float="left">
+<img src="https://user-images.githubusercontent.com/45153478/211186133-70e56867-e018-42b4-9276-d8b670fa1d7a.png" width="162" height="216">
+<img src="https://user-images.githubusercontent.com/45153478/211186134-2b0dd51b-6279-437d-a43b-2ca32d2781d3.png" width="162" height="216">
+<img src="https://user-images.githubusercontent.com/45153478/211186135-f5b88ccf-226b-4c10-82f8-c684a955026a.png" width="162" height="216">
+</p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/45153478/211186139-71f2fc16-8042-4508-b336-12928c664cfc.png" width="162" height="216">
+<img src="https://user-images.githubusercontent.com/45153478/211186140-1f478d26-3679-4414-aade-4af421503d54.png" width="162" height="216">
+<img src="https://user-images.githubusercontent.com/45153478/211186141-6db0fa95-49c2-49c0-9127-a03634914afc.png" width="162" height="216">
+</p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/45153478/211186142-53b53aee-6b30-467e-8a1a-656120a05902.png" width="162" height="216">
+<img src="https://user-images.githubusercontent.com/45153478/211186144-fa39c632-12f7-427a-a8df-a4489aed1b3c.png" width="162" height="216">
+</p>
+
 ## Help
 
 If you have any question, please email to stephen.cao0805@outlook.com
