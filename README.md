@@ -60,6 +60,6 @@ Key Features
 
 If you have any comments or suggestions, please feel free to contact us via email: stephen.cao0805@outlook.com
 
-## Authors
+## Author
 
 Rui Cao
