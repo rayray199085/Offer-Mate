@@ -24,7 +24,7 @@ Key Features
 
 ## iPhone Screenshots
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/45153478/211185694-37b68cdb-1200-4380-b130-f5c81161924f.png)" width="100" height="216">
+<img src="https://user-images.githubusercontent.com/45153478/211185694-37b68cdb-1200-4380-b130-f5c81161924f.png" width="100" height="216">
 ![job-details](https://user-images.githubusercontent.com/45153478/211185694-37b68cdb-1200-4380-b130-f5c81161924f.png)
 ![jobs-landing](https://user-images.githubusercontent.com/45153478/211185700-b60a7a9e-3915-4234-b5b1-002d4bb0cc12.png)
 ![my-jobs](https://user-images.githubusercontent.com/45153478/211185702-2d2a49cd-7b89-49e6-a0bd-c5c4cfa0c9b5.png)
